@@ -14,7 +14,7 @@ This is a Python script that automates the process of querying a web page using 
 1. Clone this repository:
 
     ```
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/bernardofsrodrigues/AmilBot.git
     ```
 
 2. Install dependencies:
