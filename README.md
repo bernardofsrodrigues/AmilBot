@@ -1,8 +1,17 @@
 # AmilBot
 
-# Web Page Query Automation using Selenium
+## Web Page Query Automation using Selenium
 
 This is a Python script that automates the process of querying a web page using Selenium WebDriver. The script reads data from an Excel file, fills out forms on a web page, performs queries, and extracts relevant information.
+
+## Technologies
+
+- **Selenium**: A widely used browser automation tool for testing web applications across different browsers and platforms.
+- **Python**: A widely used programming language, known for its simplicity and ease of learning, used for writing automation scripts.
+- **Pandas**: An open-source Python library used for data analysis and manipulation.
+- **Openpyxl**: A Python library used for reading and writing Excel files (.xlsx).
+- **PySimpleGUI**: An open-source Python library used for creating simple and quick graphical user interfaces (GUIs).
+
 
 ## Requirements
 
